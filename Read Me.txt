@@ -1,0 +1,7 @@
+Kullandığım Kaynaklar
+1)https://openweathermap.org/
+2)https://axios-http.com/docs/example
+3)https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/css/inputs/regular
+4)https://www.npmjs.com/package/axios
+5)https://tailwindcss.com/docs/guides/create-react-app
+6)yotube
